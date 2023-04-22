@@ -100,7 +100,7 @@ function cifrar(mensaje) {
 /*
 * Obtiene las palabras con las que se cifro el mensaje.
 * Obtiene las letras originales que se cifraron.
-* Remplaza las palabras que coincidan en el mensaje con las letras originales.
+* Reemplaza las palabras que coincidan en el mensaje con las letras originales.
 * Retorna el mensaje descifrado.
 */
 function descifrar(mensaje) {
